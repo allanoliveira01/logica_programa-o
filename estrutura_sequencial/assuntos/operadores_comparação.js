@@ -1,0 +1,10 @@
+console.log(5 == 5) // verdadeiro
+console.log(`5` == 5) // verdadeiro
+console.log(`5` === 5) // False
+console.log(5 < 5) // False
+console.log(5 <= 5) // verdadeiro
+console.log(5 > 5) //   False
+console.log(5 >= 5) // verdadeiro
+console.log(5 != 5) // False
+console.log(5 !== 5) // False
+console.log(`5` !== 5) // Verdadeiro
